@@ -1,4 +1,4 @@
-Country,Export _US$_Thousand
+Country,Export_US$_Thousand
 Aruba,1525860.76
 Afghanistan,5916036
 Angola,12653996.54
@@ -26,7 +26,7 @@ Bulgaria,45462924.71
 Bahrain,18033386.04
 "Bahamas, The",8844311.53
 Bosnia and Herzegovina,19007894.83
-Saint Barthélemy,90588.95
+Saint BarthÃ©lemy,90588.95
 Belarus,46327623.82
 Belize,1437323.04
 Bermuda,2420565.78
@@ -53,7 +53,7 @@ Comoros,449904.14
 Cape Verde,1478706.54
 Costa Rica,18612406.36
 Cuba,5603283.72
-Curaçao,1440137.13
+CuraÃ§ao,1440137.13
 Christmas Island,36059.78
 Cayman Islands,10903184.58
 Cyprus,15469975.31
