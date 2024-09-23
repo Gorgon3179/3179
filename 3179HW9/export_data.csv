@@ -10,7 +10,7 @@ Argentina,65386155.68
 Armenia,5013378.9
 American Samoa,154593.45
 Antarctica,103139.22
-Fr. So. Ant. Tr,60342.62
+Fr. S. Antarctic Lands,60342.62
 Antigua and Barbuda,1671451.25
 Australia,279420552.8
 Austria,198504368.7
@@ -24,8 +24,8 @@ Burkina Faso,3767305.57
 Bangladesh,80568124.28
 Bulgaria,45462924.71
 Bahrain,18033386.04
-"Bahamas, The",8844311.53
-Bosnia and Herzegovina,19007894.83
+Bahamas,8844311.53
+Bosnia and Herz.,19007894.83
 Saint Barthélemy,90588.95
 Belarus,46327623.82
 Belize,1437323.04
@@ -38,15 +38,15 @@ Bhutan,1143520.99
 Bunkers,44275867.58
 Bouvet Island,1417.45
 Botswana,7327565.19
-Central African Republic,406990
+Central African Rep.,406990
 Canada,529223309.5
 Cocos (Keeling) Islands,12111.82
 Switzerland,506450948
 Chile,98636407.29
 China,2419607092
-Cote d'Ivoire,18188528.34
+Côte d'Ivoire,18188528.34
 Cameroon,9951558.77
-"Congo, Rep.",3733599.92
+Congo,3733599.92
 Cook Islands,205170.48
 Colombia,66615595.42
 Comoros,449904.14
@@ -57,23 +57,23 @@ Curaçao,1440137.13
 Christmas Island,36059.78
 Cayman Islands,10903184.58
 Cyprus,15469975.31
-Czech Republic,187704391.6
+Czechia,187704391.6
 Germany,1353626273
 Djibouti,8575241
 Dominica,714511.27
 Denmark,115774658.8
-Dominican Republic,25719477.58
+Dominican Rep.,25719477.58
 Algeria,51503438.6
 Ecuador,25064370.93
-"Egypt, Arab Rep.",121503620
+Egypt,121503620
 Eritrea,364390.13
-Western Sahara,37809.57
+W. Sahara,37809.57
 Spain,381128434.5
 Estonia,25773935.95
-Ethiopia(excludes Eritrea),9895243.06
+Ethiopia,9895243.06
 Finland,81407267.8
 Fiji,2119389.86
-Falkland Island,201719.43
+Falkland Is.,201719.43
 France,683817002.8
 Free Zones,2812921.58
 Faeroe Islands,2362807.08
@@ -84,9 +84,9 @@ Georgia,12432700.47
 Ghana,24059892.82
 Gibraltar,15420639.54
 Guinea,6298034.46
-"Gambia, The",1879234.32
+Gambia",1879234.32
 Guinea-Bissau,594585.14
-Equatorial Guinea,1211491.76
+Eq. Guinea,1211491.76
 Greece,72209036.25
 Grenada,361180.03
 Greenland,1836980.4
@@ -103,7 +103,7 @@ Indonesia,202125597.3
 India,501730633.4
 British Indian Ocean Ter.,49412.27
 Ireland,100144839.5
-"Iran, Islamic Rep.",37902224.25
+Iran,37902224.25
 Iraq,57670287.02
 Iceland,10693241.05
 Israel,116918781.2
@@ -117,7 +117,7 @@ Kyrgyz Republic,13533117.59
 Cambodia,37816122.97
 Kiribati,172149.37
 St. Kitts and Nevis,309629.54
-"Korea, Rep.",599607208.2
+North Korea,599607208.2
 Kuwait,41825145.56
 Lao PDR,7130577.41
 Lebanon,20240124.34
@@ -171,39 +171,39 @@ Philippines,160694229.1
 Palau,135453.13
 Papua New Guinea,4385492.07
 Poland,347416542.2
-"Korea, Dem. Rep.",286944.74
+South Korea,286944.74
 Portugal,94093227.59
 Paraguay,11782055.93
-Occ.Pal.Terr,1855939.72
+Palestine,1855939.72
 French Polynesia,2546415.42
 Qatar,39425790.64
 Romania,110204789.1
-Russian Federation,369704970.1
+Russia,369704970.1
 Rwanda,2578028.36
 Saudi Arabia,173994994.4
 Senegal,18305116.32
-"Serbia, FR(Serbia/Montenegro)",56388198.18
+Serbia,56388198.18
 Singapore,366827604.7
 South Georgia and the South Sa,574.31
 Saint Helena,58277.72
-Solomon Islands,485871.84
+Solomon Is.,485871.84
 Sierra Leone,1924181.1
 El Salvador,12861289.34
 San Marino,808959.29
 Somalia,5249637.4
 Special Categories,85490755.68
 Saint Pierre and Miquelon,123020.14
-South Sudan,936088.77
+S. Sudan,936088.77
 Sao Tome and Principe,211799.66
 Sudan,9597674.88
 Suriname,1818645.44
-Slovak Republic,93841001.82
+Slovakia,93841001.82
 Slovenia,55272481.99
 Sweden,168148413.6
-Eswatini,1840828.18
+eSwatini,1840828.18
 Saint Maarten (Dutch part),686994.65
 Seychelles,977788.85
-Syrian Arab Republic,5505023.48
+Syria,5505023.48
 Turks and Caicos Isl.,464860.8
 Chad,1320752.16
 Togo,15459931.56
@@ -211,7 +211,7 @@ Thailand,254099887.4
 Tajikistan,5106637.56
 Tokelau,15860.75
 Turkmenistan,5251422.43
-East Timor,835086.3
+Timor-Leste,835086.3
 Tonga,236483.74
 Trinidad and Tobago,6307026.16
 Tunisia,34481744.9
@@ -223,7 +223,7 @@ Ukraine,99221760.72
 United States Minor Outlying I,64353.59
 Unspecified,700658405
 Uruguay,15304615.55
-United States,3291674759
+United States of America,3291674759
 Uzbekistan,25792818.06
 Holy See,160258.68
 St. Vincent and the Grenadines,568836.9
@@ -235,6 +235,6 @@ Wallis and Futura Isl.,76888.03
 Samoa,424488.18
 Yemen,13578010.13
 South Africa,119580111.1
-"Congo, Dem. Rep.",11061690.72
+Dem. Rep. Congo,11061690.72
 Zambia,7876466.9
 Zimbabwe,5566423.9
