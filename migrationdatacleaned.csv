@@ -1,0 +1,536 @@
+code,label,year,estimated_population,net_overseas_migration
+101,Capital Region,2017,226721,1069
+101,Capital Region,2018,229584,948
+101,Capital Region,2019,232542,900
+101,Capital Region,2020,235620,610
+101,Capital Region,2021,238522,197
+101,Capital Region,2022,240423,890
+102,Central Coast,2017,339951,1574
+102,Central Coast,2018,342704,1388
+102,Central Coast,2019,345181,1316
+102,Central Coast,2020,347067,891
+102,Central Coast,2021,348379,141
+102,Central Coast,2022,348930,1213
+103,Central West,2017,211203,653
+103,Central West,2018,212204,580
+103,Central West,2019,212925,551
+103,Central West,2020,213154,371
+103,Central West,2021,213471,65
+103,Central West,2022,213927,539
+104,Coffs Harbour - Grafton,2017,140599,733
+104,Coffs Harbour - Grafton,2018,142028,656
+104,Coffs Harbour - Grafton,2019,143227,618
+104,Coffs Harbour - Grafton,2020,144149,422
+104,Coffs Harbour - Grafton,2021,146115,98
+104,Coffs Harbour - Grafton,2022,147397,556
+105,Far West and Orana,2017,117110,420
+105,Far West and Orana,2018,117450,373
+105,Far West and Orana,2019,117464,355
+105,Far West and Orana,2020,117179,239
+105,Far West and Orana,2021,117178,102
+105,Far West and Orana,2022,117048,341
+106,Hunter Valley exc Newcastle,2017,273188,789
+106,Hunter Valley exc Newcastle,2018,277895,704
+106,Hunter Valley exc Newcastle,2019,282014,669
+106,Hunter Valley exc Newcastle,2020,287155,449
+106,Hunter Valley exc Newcastle,2021,292906,91
+106,Hunter Valley exc Newcastle,2022,299174,727
+107,Illawarra,2017,305558,2799
+107,Illawarra,2018,307880,2492
+107,Illawarra,2019,310108,2391
+107,Illawarra,2020,312210,1623
+107,Illawarra,2021,313990,-216
+107,Illawarra,2022,317396,1781
+108,Mid North Coast,2017,218850,631
+108,Mid North Coast,2018,221482,558
+108,Mid North Coast,2019,224039,523
+108,Mid North Coast,2020,226444,361
+108,Mid North Coast,2021,228870,62
+108,Mid North Coast,2022,231539,515
+109,Murray,2017,119047,517
+109,Murray,2018,120169,457
+109,Murray,2019,121111,434
+109,Murray,2020,122202,294
+109,Murray,2021,123332,48
+109,Murray,2022,124357,399
+110,New England and North West,2017,186455,997
+110,New England and North West,2018,187140,923
+110,New England and North West,2019,187673,836
+110,New England and North West,2020,187213,568
+110,New England and North West,2021,186942,58
+110,New England and North West,2022,187682,691
+111,Newcastle and Lake Macquarie,2017,373675,2821
+111,Newcastle and Lake Macquarie,2018,378130,2479
+111,Newcastle and Lake Macquarie,2019,382560,2351
+111,Newcastle and Lake Macquarie,2020,386919,1598
+111,Newcastle and Lake Macquarie,2021,391095,295
+111,Newcastle and Lake Macquarie,2022,395875,1990
+112,Richmond - Tweed,2017,248690,1330
+112,Richmond - Tweed,2018,250806,1167
+112,Richmond - Tweed,2019,252717,1103
+112,Richmond - Tweed,2020,254911,752
+112,Richmond - Tweed,2021,256677,223
+112,Richmond - Tweed,2022,258167,1096
+113,Riverina,2017,160548,982
+113,Riverina,2018,161600,884
+113,Riverina,2019,162609,821
+113,Riverina,2020,163578,556
+113,Riverina,2021,164231,228
+113,Riverina,2022,164353,714
+114,Southern Highlands and Shoalhaven,2017,152617,721
+114,Southern Highlands and Shoalhaven,2018,154657,622
+114,Southern Highlands and Shoalhaven,2019,156612,588
+114,Southern Highlands and Shoalhaven,2020,158704,401
+114,Southern Highlands and Shoalhaven,2021,160722,54
+114,Southern Highlands and Shoalhaven,2022,161959,519
+115,Sydney - Baulkham Hills and Hawkesbury,2017,241297,2351
+115,Sydney - Baulkham Hills and Hawkesbury,2018,245980,1983
+115,Sydney - Baulkham Hills and Hawkesbury,2019,253032,1889
+115,Sydney - Baulkham Hills and Hawkesbury,2020,259438,1307
+115,Sydney - Baulkham Hills and Hawkesbury,2021,265266,-129
+115,Sydney - Baulkham Hills and Hawkesbury,2022,271208,1699
+116,Sydney - Blacktown,2017,362489,5163
+116,Sydney - Blacktown,2018,372420,4543
+116,Sydney - Blacktown,2019,383295,4302
+116,Sydney - Blacktown,2020,395050,2925
+116,Sydney - Blacktown,2021,403958,415
+116,Sydney - Blacktown,2022,414725,3308
+117,Sydney - City and Inner South,2017,343344,12471
+117,Sydney - City and Inner South,2018,346961,10663
+117,Sydney - City and Inner South,2019,348935,8413
+117,Sydney - City and Inner South,2020,348020,6153
+117,Sydney - City and Inner South,2021,335429,-4733
+117,Sydney - City and Inner South,2022,339729,7211
+118,Sydney - Eastern Suburbs,2017,284872,7991
+118,Sydney - Eastern Suburbs,2018,282794,6234
+118,Sydney - Eastern Suburbs,2019,279752,5906
+118,Sydney - Eastern Suburbs,2020,275238,4063
+118,Sydney - Eastern Suburbs,2021,263656,-2666
+118,Sydney - Eastern Suburbs,2022,263439,4435
+119,Sydney - Inner South West,2017,606694,13863
+119,Sydney - Inner South West,2018,611388,12396
+119,Sydney - Inner South West,2019,614727,11939
+119,Sydney - Inner South West,2020,614846,8144
+119,Sydney - Inner South West,2021,607186,1744
+119,Sydney - Inner South West,2022,606943,7964
+120,Sydney - Inner West,2017,310862,7409
+120,Sydney - Inner West,2018,312530,6584
+120,Sydney - Inner West,2019,313906,6383
+120,Sydney - Inner West,2020,312700,4402
+120,Sydney - Inner West,2021,306292,-227
+120,Sydney - Inner West,2022,305662,4491
+121,Sydney - North Sydney and Hornsby,2017,429069,7082
+121,Sydney - North Sydney and Hornsby,2018,432403,5610
+121,Sydney - North Sydney and Hornsby,2019,434514,5181
+121,Sydney - North Sydney and Hornsby,2020,434097,3730
+121,Sydney - North Sydney and Hornsby,2021,426070,-2744
+121,Sydney - North Sydney and Hornsby,2022,424918,4505
+122,Sydney - Northern Beaches,2017,267339,3490
+122,Sydney - Northern Beaches,2018,268099,2734
+122,Sydney - Northern Beaches,2019,268542,2665
+122,Sydney - Northern Beaches,2020,267655,1851
+122,Sydney - Northern Beaches,2021,264481,-391
+122,Sydney - Northern Beaches,2022,263090,2196
+123,Sydney - Outer South West,2017,276208,1992
+123,Sydney - Outer South West,2018,282940,1753
+123,Sydney - Outer South West,2019,289109,1667
+123,Sydney - Outer South West,2020,294703,1129
+123,Sydney - Outer South West,2021,298999,184
+123,Sydney - Outer South West,2022,303902,1371
+124,Sydney - Outer West and Blue Mountains,2017,319494,1712
+124,Sydney - Outer West and Blue Mountains,2018,323814,1576
+124,Sydney - Outer West and Blue Mountains,2019,327909,1484
+124,Sydney - Outer West and Blue Mountains,2020,331481,1005
+124,Sydney - Outer West and Blue Mountains,2021,334001,161
+124,Sydney - Outer West and Blue Mountains,2022,335881,1281
+125,Sydney - Parramatta,2017,480132,14005
+125,Sydney - Parramatta,2018,490373,12219
+125,Sydney - Parramatta,2019,499599,11690
+125,Sydney - Parramatta,2020,502165,7954
+125,Sydney - Parramatta,2021,496672,1282
+125,Sydney - Parramatta,2022,497977,8021
+126,Sydney - Ryde,2017,193633,4892
+126,Sydney - Ryde,2018,197932,3936
+126,Sydney - Ryde,2019,202731,3683
+126,Sydney - Ryde,2020,204438,2542
+126,Sydney - Ryde,2021,202922,-929
+126,Sydney - Ryde,2022,204217,2684
+127,Sydney - South West,2017,434554,5550
+127,Sydney - South West,2018,446854,4872
+127,Sydney - South West,2019,459225,4635
+127,Sydney - South West,2020,468676,3142
+127,Sydney - South West,2021,476152,506
+127,Sydney - South West,2022,485363,3437
+128,Sydney - Sutherland,2017,226672,1495
+128,Sydney - Sutherland,2018,227363,1316
+128,Sydney - Sutherland,2019,228247,1250
+128,Sydney - Sutherland,2020,229305,845
+128,Sydney - Sutherland,2021,230301,141
+128,Sydney - Sutherland,2022,231105,1070
+201,Ballarat,2017,162625,648
+201,Ballarat,2018,165322,657
+201,Ballarat,2019,168203,659
+201,Ballarat,2020,170616,481
+201,Ballarat,2021,173266,-137
+201,Ballarat,2022,175935,584
+202,Bendigo,2017,157959,631
+202,Bendigo,2018,160377,651
+202,Bendigo,2019,162913,660
+202,Bendigo,2020,165123,479
+202,Bendigo,2021,167196,-143
+202,Bendigo,2022,168858,538
+203,Geelong,2017,294675,2094
+203,Geelong,2018,303011,2106
+203,Geelong,2019,311790,2124
+203,Geelong,2020,319731,1563
+203,Geelong,2021,327419,-564
+203,Geelong,2022,334108,1636
+204,Hume,2017,174967,729
+204,Hume,2018,177482,744
+204,Hume,2019,179662,754
+204,Hume,2020,181808,545
+204,Hume,2021,184129,-145
+204,Hume,2022,185601,606
+205,Latrobe - Gippsland,2017,280164,866
+205,Latrobe - Gippsland,2018,284704,859
+205,Latrobe - Gippsland,2019,289445,852
+205,Latrobe - Gippsland,2020,294304,621
+205,Latrobe - Gippsland,2021,299758,-150
+205,Latrobe - Gippsland,2022,304024,776
+206,Melbourne - Inner,2017,648872,20690
+206,Melbourne - Inner,2018,661128,18882
+206,Melbourne - Inner,2019,670035,18095
+206,Melbourne - Inner,2020,670368,12071
+206,Melbourne - Inner,2021,627671,-22,319
+206,Melbourne - Inner,2022,635265,12,305
+207,Melbourne - Inner East,2017,384233,7994
+207,Melbourne - Inner East,2018,387372,7669
+207,Melbourne - Inner East,2019,390690,7520
+207,Melbourne - Inner East,2020,391067,5437
+207,Melbourne - Inner East,2021,377713,-6436
+207,Melbourne - Inner East,2022,379017,5139
+208,Melbourne - Inner South,2017,430013,6659
+208,Melbourne - Inner South,2018,434106,6138
+208,Melbourne - Inner South,2019,437390,6009
+208,Melbourne - Inner South,2020,437813,4161
+208,Melbourne - Inner South,2021,427156,-5070
+208,Melbourne - Inner South,2022,428153,4216
+209,Melbourne - North East,2017,529615,7398
+209,Melbourne - North East,2018,538299,7293
+209,Melbourne - North East,2019,545895,7296
+209,Melbourne - North East,2020,551263,5431
+209,Melbourne - North East,2021,546251,-3032
+209,Melbourne - North East,2022,552434,4873
+210,Melbourne - North West,2017,393353,5677
+210,Melbourne - North West,2018,405480,5509
+210,Melbourne - North West,2019,418083,5475
+210,Melbourne - North West,2020,427688,4006
+210,Melbourne - North West,2021,428954,-2071
+210,Melbourne - North West,2022,435971,3799
+211,Melbourne - Outer East,2017,524641,4493
+211,Melbourne - Outer East,2018,527956,4447
+211,Melbourne - Outer East,2019,530553,4434
+211,Melbourne - Outer East,2020,530527,3233
+211,Melbourne - Outer East,2021,522777,-1766
+211,Melbourne - Outer East,2022,521081,3175
+212,Melbourne - South East,2017,813934,16500
+212,Melbourne - South East,2018,836134,15635
+212,Melbourne - South East,2019,858561,15334
+212,Melbourne - South East,2020,874998,11289
+212,Melbourne - South East,2021,870480,-8008
+212,Melbourne - South East,2022,883677,10448
+213,Melbourne - West,2017,788801,13136
+213,Melbourne - West,2018,814831,12703
+213,Melbourne - West,2019,840497,12593
+213,Melbourne - West,2020,859218,9371
+213,Melbourne - West,2021,863956,-5076
+213,Melbourne - West,2022,884995,9047
+214,Mornington Peninsula,2017,304638,1570
+214,Mornington Peninsula,2018,307832,1514
+214,Mornington Peninsula,2019,310213,1500
+214,Mornington Peninsula,2020,311897,1084
+214,Mornington Peninsula,2021,311199,-589
+214,Mornington Peninsula,2022,310602,1237
+215,North West,2017,152816,825
+215,North West,2018,153749,839
+215,North West,2019,154617,838
+215,North West,2020,155570,609
+215,North West,2021,155140,-277
+215,North West,2022,154734,654
+216,Shepparton,2017,133358,737
+216,Shepparton,2018,134524,736
+216,Shepparton,2019,135760,732
+216,Shepparton,2020,136896,531
+216,Shepparton,2021,137375,-246
+216,Shepparton,2022,137873,568
+217,Warrnambool and South West,2017,125134,596
+217,Warrnambool and South West,2018,125861,586
+217,Warrnambool and South West,2019,126545,601
+217,Warrnambool and South West,2020,127262,423
+217,Warrnambool and South West,2021,127600,-105
+217,Warrnambool and South West,2022,127535,441
+301,Brisbane - East,2017,234530,1017
+301,Brisbane - East,2018,237315,834
+301,Brisbane - East,2019,240185,962
+301,Brisbane - East,2020,242520,897
+301,Brisbane - East,2021,243487,-293
+301,Brisbane - East,2022,246235,841
+302,Brisbane - North,2017,218287,1646
+302,Brisbane - North,2018,221477,1346
+302,Brisbane - North,2019,224820,1543
+302,Brisbane - North,2020,227311,1424
+302,Brisbane - North,2021,227863,-501
+302,Brisbane - North,2022,231016,1227
+303,Brisbane - South,2017,362879,5258
+303,Brisbane - South,2018,367793,4362
+303,Brisbane - South,2019,372870,5002
+303,Brisbane - South,2020,377655,3900
+303,Brisbane - South,2021,377406,-1849
+303,Brisbane - South,2022,383823,3628
+304,Brisbane - West,2017,189365,1681
+304,Brisbane - West,2018,191110,1230
+304,Brisbane - West,2019,192939,1419
+304,Brisbane - West,2020,194185,1056
+304,Brisbane - West,2021,192140,-1983
+304,Brisbane - West,2022,193687,1178
+305,Brisbane Inner City,2017,273893,4646
+305,Brisbane Inner City,2018,282851,3569
+305,Brisbane Inner City,2019,291645,4027
+305,Brisbane Inner City,2020,299078,3685
+305,Brisbane Inner City,2021,298121,-4313
+305,Brisbane Inner City,2022,306118,3311
+306,Cairns,2017,249781,1749
+306,Cairns,2018,252403,1444
+306,Cairns,2019,254423,1660
+306,Cairns,2020,256725,1511
+306,Cairns,2021,257149,-486
+306,Cairns,2022,261079,1,268
+307,Darling Downs - Maranoa,2017,129155,278
+307,Darling Downs - Maranoa,2018,129468,233
+307,Darling Downs - Maranoa,2019,129726,262
+307,Darling Downs - Maranoa,2020,130007,231
+307,Darling Downs - Maranoa,2021,130066,-73
+307,Darling Downs - Maranoa,2022,131176,236
+308,Central Queensland,2017,225866,743
+308,Central Queensland,2018,226702,620
+308,Central Queensland,2019,228305,709
+308,Central Queensland,2020,229991,642
+308,Central Queensland,2021,231104,-204
+308,Central Queensland,2022,234543,625
+309,Gold Coast,2017,604243,5825
+309,Gold Coast,2018,618121,4801
+309,Gold Coast,2019,630646,5525
+309,Gold Coast,2020,643160,5126
+309,Gold Coast,2021,649659,-1636
+309,Gold Coast,2022,663984,4390
+310,Ipswich,2017,341172,1706
+310,Ipswich,2018,349406,1409
+310,Ipswich,2019,358790,1621
+310,Ipswich,2020,366686,1587
+310,Ipswich,2021,37,651,-479
+310,Ipswich,2022,385274,1377
+311,Logan - Beaudesert,2017,335652,1927
+311,Logan - Beaudesert,2018,342623,1603
+311,Logan - Beaudesert,2019,35,013,1848
+311,Logan - Beaudesert,2020,359278,1709
+311,Logan - Beaudesert,2021,365653,-540
+311,Logan - Beaudesert,2022,378547,1480
+312,Mackay - Isaac - Whitsunday,2017,174145,676
+312,Mackay - Isaac - Whitsunday,2018,175655,563
+312,Mackay - Isaac - Whitsunday,2019,177773,635
+312,Mackay - Isaac - Whitsunday,2020,180967,579
+312,Mackay - Isaac - Whitsunday,2021,183269,-187
+312,Mackay - Isaac - Whitsunday,2022,186512,553
+313,Moreton Bay - North,2017,248094,1024
+313,Moreton Bay - North,2018,252875,850
+313,Moreton Bay - North,2019,258272,981
+313,Moreton Bay - North,2020,264132,951
+313,Moreton Bay - North,2021,268995,-285
+313,Moreton Bay - North,2022,276768,853
+314,Moreton Bay - South,2017,206629,1006
+314,Moreton Bay - South,2018,211485,828
+314,Moreton Bay - South,2019,215613,957
+314,Moreton Bay - South,2020,219403,960
+314,Moreton Bay - South,2021,221,611,-285
+314,Moreton Bay - South,2022,226615,822
+315,Queensland - Outback,2017,82079,191
+315,Queensland - Outback,2018,81903,161
+315,Queensland - Outback,2019,81773,175
+315,Queensland - Outback,2020,81791,171
+315,Queensland - Outback,2021,81634,-56
+315,Queensland - Outback,2022,81836,202
+316,Sunshine Coast,2017,366240,2006
+316,Sunshine Coast,2018,376356,1658
+316,Sunshine Coast,2019,386364,1901
+316,Sunshine Coast,2020,395669,1838
+316,Sunshine Coast,2021,403521,-570
+316,Sunshine Coast,2022,413456,1767
+317,Toowoomba,2017,155540,887
+317,Toowoomba,2018,158121,733
+317,Toowoomba,2019,160515,838
+317,Toowoomba,2020,162658,782
+317,Toowoomba,2021,164144,-244
+317,Toowoomba,2022,167385,659
+318,Townsville,2017,235229,941
+318,Townsville,2018,235631,775
+318,Townsville,2019,236010,874
+318,Townsville,2020,237070,803
+318,Townsville,2021,237452,-322
+318,Townsville,2022,240758,734
+319,Wide Bay,2017,295595,868
+319,Wide Bay,2018,299207,722
+319,Wide Bay,2019,303036,810
+319,Wide Bay,2020,306717,773
+319,Wide Bay,2021,310728,-237
+319,Wide Bay,2022,317810,753
+401,Adelaide - Central and Hills,2017,301133,3313
+401,Adelaide - Central and Hills,2018,304732,3285
+401,Adelaide - Central and Hills,2019,309698,3967
+401,Adelaide - Central and Hills,2020,314839,3858
+401,Adelaide - Central and Hills,2021,315867,-1596
+401,Adelaide - Central and Hills,2022,319338,3237
+402,Adelaide - North,2017,436587,3012
+402,Adelaide - North,2018,44,029,3202
+402,Adelaide - North,2019,449958,3798
+402,Adelaide - North,2020,457595,3733
+402,Adelaide - North,2021,461302,-545
+402,Adelaide - North,2022,467493,3198
+403,Adelaide - South,2017,365500,2366
+403,Adelaide - South,2018,368627,2516
+403,Adelaide - South,2019,372391,2985
+403,Adelaide - South,2020,376534,2990
+403,Adelaide - South,2021,378101,-536
+403,Adelaide - South,2022,381429,2522
+404,Adelaide - West,2017,235789,2494
+404,Adelaide - West,2018,238752,2656
+404,Adelaide - West,2019,242466,3150
+404,Adelaide - West,2020,246318,3084
+404,Adelaide - West,2021,247123,-454
+404,Adelaide - West,2022,250195,2,556
+405,Barossa - Yorke - Mid North,2017,113871,141
+405,Barossa - Yorke - Mid North,2018,114574,157
+405,Barossa - Yorke - Mid North,2019,115383,185
+405,Barossa - Yorke - Mid North,2020,116150,191
+405,Barossa - Yorke - Mid North,2021,116963,-28
+405,Barossa - Yorke - Mid North,2022,117825,216
+406,South Australia - Outback,2017,85489,169
+406,South Australia - Outback,2018,85491,180
+406,South Australia - Outback,2019,85563,205
+406,South Australia - Outback,2020,85599,217
+406,South Australia - Outback,2021,85586,-33
+406,South Australia - Outback,2022,85548,243
+407,South Australia - South East,2017,191239,680
+407,South Australia - South East,2018,192805,728
+407,South Australia - South East,2019,194589,851
+407,South Australia - South East,2020,196512,864
+407,South Australia - South East,2021,198250,-124
+407,South Australia - South East,2022,199709,788
+501,Bunbury,2017,182545,438
+501,Bunbury,2018,185324,444
+501,Bunbury,2019,188363,632
+501,Bunbury,2020,191854,910
+501,Bunbury,2021,194994,-131
+501,Bunbury,2022,198127,464
+502,Mandurah,2017,101530,258
+502,Mandurah,2018,103682,258
+502,Mandurah,2019,106032,372
+502,Mandurah,2020,108830,533
+502,Mandurah,2021,111299,-78
+502,Mandurah,2022,113860,265
+503,Perth - Inner,2017,180426,1384
+503,Perth - Inner,2018,181930,1425
+503,Perth - Inner,2019,184756,2193
+503,Perth - Inner,2020,189037,3030
+503,Perth - Inner,2021,188872,-1843
+503,Perth - Inner,2022,190621,1373
+504,Perth - North East,2017,263773,1068
+504,Perth - North East,2018,268401,1066
+504,Perth - North East,2019,274318,1534
+504,Perth - North East,2020,281557,2205
+504,Perth - North East,2021,286722,-329
+504,Perth - North East,2022,292160,958
+505,Perth - North West,2017,563937,2765
+505,Perth - North West,2018,571430,2730
+505,Perth - North West,2019,580277,3959
+505,Perth - North West,2020,591633,5690
+505,Perth - North West,2021,597086,-1075
+505,Perth - North West,2022,603557,2480
+506,Perth - South East,2017,513414,3505
+506,Perth - South East,2018,520760,3482
+506,Perth - South East,2019,531191,5048
+506,Perth - South East,2020,543701,7253
+506,Perth - South East,2021,549247,-1310
+506,Perth - South East,2022,556648,2980
+507,Perth - South West,2017,424800,1697
+507,Perth - South West,2018,432334,1672
+507,Perth - South West,2019,440923,2447
+507,Perth - South West,2020,451171,3503
+507,Perth - South West,2021,459003,-747
+507,Perth - South West,2022,467629,1625
+509,Western Australia - Wheat Belt,2017,138351,296
+509,Western Australia - Wheat Belt,2018,138764,296
+509,Western Australia - Wheat Belt,2019,139364,425
+509,Western Australia - Wheat Belt,2020,140623,600
+509,Western Australia - Wheat Belt,2021,141653,-85
+509,Western Australia - Wheat Belt,2022,142739,298
+510,Western Australia - Outback (North),2017,97077,321
+510,Western Australia - Outback (North),2018,96781,323
+510,Western Australia - Outback (North),2019,96733,469
+510,Western Australia - Outback (North),2020,97,187,667
+510,Western Australia - Outback (North),2021,96960,-96
+510,Western Australia - Outback (North),2022,97836,303
+511,Western Australia - Outback (South),2017,121724,277
+511,Western Australia - Outback (South),2018,121646,284
+511,Western Australia - Outback (South),2019,121838,405
+511,Western Australia - Outback (South),2020,122807,578
+511,Western Australia - Outback (South),2021,124028,-82
+511,Western Australia - Outback (South),2022,124706,303
+601,Hobart,2017,231983,1,399
+601,Hobart,2018,238212,1,637
+601,Hobart,2019,244498,1,850
+601,Hobart,2020,249511,2,113
+601,Hobart,2021,251047,-369
+601,Hobart,2022,252693,1,643
+602,Launceston and North East,2017,145355,638
+602,Launceston and North East,2018,148009,789
+602,Launceston and North East,2019,150759,898
+602,Launceston and North East,2020,153672,1046
+602,Launceston and North East,2021,154914,-55
+602,Launceston and North East,2022,155694,787
+603,South East,2017,38545,89
+603,South East,2018,39605,116
+603,South East,2019,40808,129
+603,South East,2020,42083,152
+603,South East,2021,42821,-8
+603,South East,2022,43480,136
+604,West and North West,2017,112441,218
+604,West and North West,2018,114286,261
+604,West and North West,2019,116245,308
+604,West and North West,2020,118241,367
+604,West and North West,2021,119127,-18
+604,West and North West,2022,119673,352
+701,Darwin,2017,149145,1404
+701,Darwin,2018,149074,571
+701,Darwin,2019,148546,705
+701,Darwin,2020,148805,132
+701,Darwin,2021,148801,-381
+701,Darwin,2022,149582,1,527
+702,Northern Territory - Outback,2017,99016,441
+702,Northern Territory - Outback,2018,99289,187
+702,Northern Territory - Outback,2019,99607,227
+702,Northern Territory - Outback,2020,100138,40
+702,Northern Territory - Outback,2021,100399,-86
+702,Northern Territory - Outback,2022,101120,593
+801,Australian Capital Territory,2017,416824,4,148
+801,Australian Capital Territory,2018,430140,4,598
+801,Australian Capital Territory,2019,441277,2,809
+801,Australian Capital Territory,2020,450632,2,368
+801,Australian Capital Territory,2021,453558,-3,277
+801,Australian Capital Territory,2022,456692,3,200
+901,Other Territories,2017,4665,0
+901,Other Territories,2018,4716,0
+901,Other Territories,2019,4759,0
+901,Other Territories,2020,4791,0
+901,Other Territories,2021,4848,0
+901,Other Territories,2022,4919,68
+901,Other Territories,2022,4919,68
