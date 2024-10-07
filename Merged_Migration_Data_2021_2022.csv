@@ -1,0 +1,180 @@
+code,label,estimated_population,net_overseas_migration,year
+101,Capital Region,238522,197,2021
+102,Central Coast,348379,141,2021
+103,Central West,213471,65,2021
+104,Coffs Harbour - Grafton,146115,98,2021
+105,Far West and Orana,117178,102,2021
+106,Hunter Valley exc Newcastle,292906,91,2021
+107,Illawarra,313990,-216,2021
+108,Mid North Coast,228870,62,2021
+109,Murray,123332,48,2021
+110,New England and North West,186942,58,2021
+111,Newcastle and Lake Macquarie,391095,295,2021
+112,Richmond - Tweed,256677,223,2021
+113,Riverina,164231,228,2021
+114,Southern Highlands and Shoalhaven,160722,54,2021
+115,Sydney - Baulkham Hills and Hawkesbury,265266,-129,2021
+116,Sydney - Blacktown,403958,415,2021
+117,Sydney - City and Inner South,335429,-4733,2021
+118,Sydney - Eastern Suburbs,263656,-2666,2021
+119,Sydney - Inner South West,607186,1744,2021
+120,Sydney - Inner West,306292,-227,2021
+121,Sydney - North Sydney and Hornsby,426070,-2744,2021
+122,Sydney - Northern Beaches,264481,-391,2021
+123,Sydney - Outer South West,298999,184,2021
+124,Sydney - Outer West and Blue Mountains,334001,161,2021
+125,Sydney - Parramatta,496672,1282,2021
+126,Sydney - Ryde,202922,-929,2021
+127,Sydney - South West,476152,506,2021
+128,Sydney - Sutherland,230301,141,2021
+201,Ballarat,173266,-137,2021
+202,Bendigo,167196,-143,2021
+203,Geelong,327419,-564,2021
+204,Hume,184129,-145,2021
+205,Latrobe - Gippsland,299758,-150,2021
+206,Melbourne - Inner,627671,-22319,2021
+207,Melbourne - Inner East,377713,-6436,2021
+208,Melbourne - Inner South,427156,-5070,2021
+209,Melbourne - North East,546251,-3032,2021
+210,Melbourne - North West,428954,-2071,2021
+211,Melbourne - Outer East,522777,-1766,2021
+212,Melbourne - South East,870480,-8008,2021
+213,Melbourne - West,863956,-5076,2021
+214,Mornington Peninsula,311199,-589,2021
+215,North West,155140,-277,2021
+216,Shepparton,137375,-246,2021
+217,Warrnambool and South West,127600,-105,2021
+301,Brisbane - East,243487,-293,2021
+302,Brisbane - North,227863,-501,2021
+303,Brisbane - South,377406,-1849,2021
+304,Brisbane - West,192140,-1983,2021
+305,Brisbane Inner City,298121,-4313,2021
+306,Cairns,257149,-486,2021
+307,Darling Downs - Maranoa,130066,-73,2021
+308,Central Queensland,231104,-204,2021
+309,Gold Coast,649659,-1636,2021
+310,Ipswich,374651,-479,2021
+311,Logan - Beaudesert,365653,-540,2021
+312,Mackay - Isaac - Whitsunday,183269,-187,2021
+313,Moreton Bay - North,268995,-285,2021
+314,Moreton Bay - South,221611,-285,2021
+315,Queensland - Outback,81634,-56,2021
+316,Sunshine Coast,403521,-570,2021
+317,Toowoomba,164144,-244,2021
+318,Townsville,237452,-322,2021
+319,Wide Bay,310728,-237,2021
+401,Adelaide - Central and Hills,315867,-1596,2021
+402,Adelaide - North,461302,-545,2021
+403,Adelaide - South,378101,-536,2021
+404,Adelaide - West,247123,-454,2021
+405,Barossa - Yorke - Mid North,116963,-28,2021
+406,South Australia - Outback,85586,-33,2021
+407,South Australia - South East,198250,-124,2021
+501,Bunbury,194994,-131,2021
+502,Mandurah,111299,-78,2021
+503,Perth - Inner,188872,-1843,2021
+504,Perth - North East,286722,-329,2021
+505,Perth - North West,597086,-1075,2021
+506,Perth - South East,549247,-1310,2021
+507,Perth - South West,459003,-747,2021
+509,Western Australia - Wheat Belt,141653,-85,2021
+510,Western Australia - Outback (North),96960,-96,2021
+511,Western Australia - Outback (South),124028,-82,2021
+601,Hobart,251047,-369,2021
+602,Launceston and North East,154914,-55,2021
+603,South East,42821,-8,2021
+604,West and North West,119127,-18,2021
+701,Darwin,148801,-381,2021
+702,Northern Territory - Outback,100399,-86,2021
+801,Australian Capital Territory,453558,-3277,2021
+901,Other Territories,4848,0,2021
+101,Capital Region,240423,890,2022
+102,Central Coast,348930,1213,2022
+103,Central West,213927,539,2022
+104,Coffs Harbour - Grafton,147397,556,2022
+105,Far West and Orana,117048,341,2022
+106,Hunter Valley exc Newcastle,299174,727,2022
+107,Illawarra,317396,1781,2022
+108,Mid North Coast,231539,515,2022
+109,Murray,124357,399,2022
+110,New England and North West,187682,691,2022
+111,Newcastle and Lake Macquarie,395875,1990,2022
+112,Richmond - Tweed,258167,1096,2022
+113,Riverina,164353,714,2022
+114,Southern Highlands and Shoalhaven,161959,519,2022
+115,Sydney - Baulkham Hills and Hawkesbury,271208,1699,2022
+116,Sydney - Blacktown,414725,3308,2022
+117,Sydney - City and Inner South,339729,7211,2022
+118,Sydney - Eastern Suburbs,263439,4435,2022
+119,Sydney - Inner South West,606943,7964,2022
+120,Sydney - Inner West,305662,4491,2022
+121,Sydney - North Sydney and Hornsby,424918,4505,2022
+122,Sydney - Northern Beaches,263090,2196,2022
+123,Sydney - Outer South West,303902,1371,2022
+124,Sydney - Outer West and Blue Mountains,335881,1281,2022
+125,Sydney - Parramatta,497977,8021,2022
+126,Sydney - Ryde,204217,2684,2022
+127,Sydney - South West,485363,3437,2022
+128,Sydney - Sutherland,231105,1070,2022
+201,Ballarat,175935,584,2022
+202,Bendigo,168858,538,2022
+203,Geelong,334108,1636,2022
+204,Hume,185601,606,2022
+205,Latrobe - Gippsland,304024,776,2022
+206,Melbourne - Inner,635265,12305,2022
+207,Melbourne - Inner East,379017,5139,2022
+208,Melbourne - Inner South,428153,4216,2022
+209,Melbourne - North East,552434,4873,2022
+210,Melbourne - North West,435971,3799,2022
+211,Melbourne - Outer East,521081,3175,2022
+212,Melbourne - South East,883677,10448,2022
+213,Melbourne - West,884995,9047,2022
+214,Mornington Peninsula,310602,1237,2022
+215,North West,154734,654,2022
+216,Shepparton,137873,568,2022
+217,Warrnambool and South West,127535,441,2022
+301,Brisbane - East,246235,841,2022
+302,Brisbane - North,231016,1227,2022
+303,Brisbane - South,383823,3628,2022
+304,Brisbane - West,193687,1178,2022
+305,Brisbane Inner City,306118,3311,2022
+306,Cairns,261079,1268,2022
+307,Darling Downs - Maranoa,131176,236,2022
+308,Central Queensland,234543,625,2022
+309,Gold Coast,663984,4390,2022
+310,Ipswich,385274,1377,2022
+311,Logan - Beaudesert,378547,1480,2022
+312,Mackay - Isaac - Whitsunday,186512,553,2022
+313,Moreton Bay - North,276768,853,2022
+314,Moreton Bay - South,226615,822,2022
+315,Queensland - Outback,81836,202,2022
+316,Sunshine Coast,413456,1767,2022
+317,Toowoomba,167385,659,2022
+318,Townsville,240758,734,2022
+319,Wide Bay,317810,753,2022
+401,Adelaide - Central and Hills,319338,3237,2022
+402,Adelaide - North,467493,3198,2022
+403,Adelaide - South,381429,2522,2022
+404,Adelaide - West,250195,2556,2022
+405,Barossa - Yorke - Mid North,117825,216,2022
+406,South Australia - Outback,85548,243,2022
+407,South Australia - South East,199709,788,2022
+501,Bunbury,198127,464,2022
+502,Mandurah,113860,265,2022
+503,Perth - Inner,190621,1373,2022
+504,Perth - North East,292160,958,2022
+505,Perth - North West,603557,2480,2022
+506,Perth - South East,556648,2980,2022
+507,Perth - South West,467629,1625,2022
+509,Western Australia - Wheat Belt,142739,298,2022
+510,Western Australia - Outback (North),97836,303,2022
+511,Western Australia - Outback (South),124706,303,2022
+601,Hobart,252693,1643,2022
+602,Launceston and North East,155694,787,2022
+603,South East,43480,136,2022
+604,West and North West,119673,352,2022
+701,Darwin,149582,1527,2022
+702,Northern Territory - Outback,101120,593,2022
+801,Australian Capital Territory,456692,3200,2022
+901,Other Territories,4919,68,2022
+901,Other Territories,4919,68,2022
